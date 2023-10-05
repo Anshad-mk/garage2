@@ -1,0 +1,9 @@
+AS Garage Server running on 3500
+Database connected: mongodb://127.0.0.1:27017/asgarage
+{
+  acknowledged: true,
+  modifiedCount: 1,
+  upsertedId: null,
+  upsertedCount: 0,
+  matchedCount: 1
+}
